@@ -1,6 +1,6 @@
-# Post Pingeon – Ionic 4 messenger app for iOS and Android based on Angular 6 and Firebase
+# Post Pingeon – Ionic 3 messenger app for iOS and Android based on Angular 5 and Firebase
 
-The Post Pingeon is Ionic 4 simple, light-weight messenger application based on Angular 6 and Firebase. You can use it on Android or iOS devices. It is easy to maintain project for your own targets. Project based on default Ionic styleguides.
+The Post Pingeon is Ionic 3 simple, light-weight messenger application based on Angular 5 and Firebase. You can use it on Android or iOS devices. It is easy to maintain project for your own targets. Project based on default Ionic styleguides.
 
 ## Firebase setup
 
